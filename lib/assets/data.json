@@ -1,0 +1,34 @@
+[
+    {
+      "id": 0,
+      "name": " Server",
+      "major": "Peralatan Jaringan",
+      "imageUrl": "https://ekrutassets.s3.ap-southeast-1.amazonaws.com/blogs/images/000/006/410/original/H1_Server.jpg",
+      "major2": "Server berfungsi sebagai tempat atau media untuk menyimpan informasi, serta mengelola jaringan komputer",
+      "codeName": "Peralatan Jaringan"
+    },
+    {
+      "id": 1,
+      "name": "NIC (Network Interface Card)",
+      "major": "Peralatan Jaringan",
+      "major2": "NIC dapat disebut juga dengan LAN Card Expansion Board yang digunakan supaya komputer dapat terhubung dengan jaringan.",
+      "imageUrl": "https://1.bp.blogspot.com/-fXBfRVgjkHc/XYoT-k7_MuI/AAAAAAAABMo/rULBOpQF_bE2v7Yxi1-J2ShS2chYw-YMACPcBGAYYCw/s1600/61K44QgZT0L._SX425_.jpg",
+      "codeName": "Peralatan Jaringan"
+    },
+    {
+      "id": 2,
+      "name": "Router",
+      "major": "Peralatan Jaringan",
+      "imageUrl": "https://pelayananpublik.id/wp-content/uploads/2019/09/2019-09-07-22.07.19.jpg",
+      "major2": "Router adalah perangkat jarkom yang berfungsi untuk menghubungkan jaringan LAN ke dalam suatu jaringan WAN, serta mengelola lalu lintas dari data di dalamnya.",
+      "codeName": "Peralatan Jaringan"
+    },
+    {
+      "id": 3,
+      "name": "Modem",
+      "major": "Peralatan Jaringan",
+      "imageUrl": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//94/MTA-2514568/telkomsel_telkomsel-modem-usb-with-wi-fi-hotspot--4g-lte-_full02.jpg",
+      "major2": "Modem merupakan perangkat yang digunakan untuk menghubungkan antara perangkat komputer, dengan penyedia layanan internet atau disebut juga dengan Internet Service Provider (ISP)",
+      "codeName": "Peralatan Jaringan"
+    }
+  ]
